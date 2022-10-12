@@ -1,3 +1,33 @@
-body{
+.row {
+    margin: 0;
+}
+
+body {
     background-color: #F2F2F2;
+    width: 100%;
+}
+
+.brand-name {
+    margin: 0px 30px;
+}
+
+.nav-con {
+    margin: 0px 30px;
+}
+
+h1 {
+    font-size: 69px;
+}
+
+.tagline {
+    font-family: 'Playfair Display', serif;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.imageContainer {
+    align-items: center;
+    justify-content: center;
+    
+    padding-right: 0;
 }
